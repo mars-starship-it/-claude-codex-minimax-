@@ -1,0 +1,5 @@
+{
+  "name": "LLM Cost Benchmark",
+  "description": "A dashboard to estimate and compare programming costs and duration across Zhipu, Minimax, Claude, Codex, and Gemini models.",
+  "requestFramePermissions": []
+}
